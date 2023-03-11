@@ -7,9 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="ConvertedTextBox" HorizontalAlignment="Left" Margin="92,285,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-
-        <TextBox x:Name="InputTextBox" TextChanged="InputTextBox_TextChanged" HorizontalAlignment="Left" Margin="92,97,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-
+        <TextBox x:Name="ConvertedTextBox" HorizontalAlignment="Left" Margin="92,341,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="607" Height="49"/>
+        <TextBox x:Name="InputTextBox" TextChanged="InputTextBox_TextChanged" HorizontalAlignment="Left" Margin="92,153,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="607" Height="53"/>
+        <Label Content="InputText" HorizontalAlignment="Left" Margin="92,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="outputText" HorizontalAlignment="Left" Margin="92,295,0,0" VerticalAlignment="Top"/>
+        <Label Content="BackSlashToSlashConvertor" HorizontalAlignment="Left" Margin="45,27,0,0" VerticalAlignment="Top" FontSize="16"/>
     </Grid>
 </Window>
