@@ -1,6 +1,6 @@
 # BackSlachToSlachConvertor
  
-![License](https://img.shields.io/github/license/tatikun/BackSlachToSlachConvertor)
+![License](https://img.shields.io/github/license/tatikun/BackSlachToSlachConvertor.svg)
 
 This is a simple desktop application for converting backslashes to forward slashes in a text input.
 
